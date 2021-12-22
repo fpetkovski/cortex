@@ -665,7 +665,7 @@ github.com/stretchr/objx
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/mock
 github.com/stretchr/testify/require
-# github.com/thanos-io/thanos v0.22.0 => github.com/thanos-io/thanos v0.19.1-0.20211208205607-d1acaea2a11a
+# github.com/thanos-io/thanos v0.22.0 => ../thanos
 ## explicit
 github.com/thanos-io/thanos/pkg/block
 github.com/thanos-io/thanos/pkg/block/indexheader
@@ -701,6 +701,7 @@ github.com/thanos-io/thanos/pkg/runutil
 github.com/thanos-io/thanos/pkg/shipper
 github.com/thanos-io/thanos/pkg/store
 github.com/thanos-io/thanos/pkg/store/cache
+github.com/thanos-io/thanos/pkg/store/cache/cachekey
 github.com/thanos-io/thanos/pkg/store/hintspb
 github.com/thanos-io/thanos/pkg/store/labelpb
 github.com/thanos-io/thanos/pkg/store/storepb
@@ -732,6 +733,13 @@ github.com/uber/jaeger-client-go/utils
 # github.com/uber/jaeger-lib v2.4.1+incompatible
 github.com/uber/jaeger-lib/metrics
 github.com/uber/jaeger-lib/metrics/prometheus
+# github.com/vimeo/galaxycache v0.0.0-20210323154928-b7e5d71c067a
+github.com/vimeo/galaxycache
+github.com/vimeo/galaxycache/consistenthash
+github.com/vimeo/galaxycache/http
+github.com/vimeo/galaxycache/lru
+github.com/vimeo/galaxycache/promoter
+github.com/vimeo/galaxycache/singleflight
 # github.com/weaveworks/common v0.0.0-20210913144402-035033b78a78
 ## explicit
 github.com/weaveworks/common/aws
