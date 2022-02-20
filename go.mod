@@ -49,12 +49,12 @@ require (
 	github.com/sony/gobreaker v0.4.1
 	github.com/spf13/afero v1.6.0
 	github.com/stretchr/testify v1.7.0
-	github.com/thanos-io/thanos v0.22.0
+	github.com/thanos-io/thanos v0.24.1-0.20220217031214-d0249f17e8ff
 	github.com/uber/jaeger-client-go v2.29.1+incompatible
 	github.com/weaveworks/common v0.0.0-20210913144402-035033b78a78
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/atomic v1.9.0
-	golang.org/x/net v0.0.0-20211020060615-d418f374d309
+	golang.org/x/net v0.0.0-20220114011407-0dd24b26b47d
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	google.golang.org/api v0.60.0
